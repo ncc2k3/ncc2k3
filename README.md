@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Kuro2003/Kuro2003/blob/89213542252d4c8e86e829806d73a36d51cbed5b/350.png" alt="Random Image" width="800">
+<img src="https://github.com/Kuro2003/Kuro2003/blob/89213542252d4c8e86e829806d73a36d51cbed5b/350.png" alt="Random Image" width="500">
 
 <br />
 <img align="left" width="300" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
