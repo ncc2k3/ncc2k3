@@ -1,5 +1,5 @@
-<img align="left" width="400" src="https://github.com/Kuro2003/Kuro2003/blob/eb401dfe2140488e76ad45d77d79be5f44148e45/channels4_profile.jpg">
-<h1 align="center"> Hi there👋, I'm CuongNC  (｡●́‿●̀｡) </h1>
+<img align="left" width="300" src="https://github.com/Kuro2003/Kuro2003/blob/eb401dfe2140488e76ad45d77d79be5f44148e45/channels4_profile.jpg">
+<h1 align="center"> Hi there👋, I'm CuongNC (｡●́‿●̀｡) </h1>
 <p align="center">
   <h3 align="center">I'm currently learning AI in HCMUS 🔥</h3>
 </p>
