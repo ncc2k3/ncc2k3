@@ -9,18 +9,19 @@
 </p>
 
 <br />
-
 # 📫 How to reach me:
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 <p align="left">
   <a href="https://github.com/Kuro2003" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a>
   <a href="https://www.linkedin.com/in/cuongnc03/" alt="LinkedIn">
-  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-</a>
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  </a>
+  <a href="[https://leetcode.com/your-leetcode-username](https://leetcode.com/u/cuonghacknao2003/)/" alt="LeetCode">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/>
+  </a>
 </p>
+
 <br />
 
 # Skills:
